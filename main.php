@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: WooCommerce Auto Order Status Scheduler
- * Plugin URI: https://github.com/yourusername/woocommerce-auto-order-status-scheduler
+ * Plugin URI: https://github.com/amirrezashf/woocommerce-auto-order-status-scheduler
  * Description: Automatically schedule WooCommerce order status changes with configurable delays, status restrictions, admin controls, and scheduled task management.
  * Version: 1.0.0
  * Author: Amirreza Shayesteh Far
